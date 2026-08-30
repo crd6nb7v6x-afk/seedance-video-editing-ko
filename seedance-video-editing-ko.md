@@ -1,6 +1,5 @@
 # Seedance 2.5 영상 편집 — 한국어판
 
-> 원본: [woodfantasy/Seedance-ShotDesign-Skills — video-editing.md](https://github.com/woodfantasy/Seedance-ShotDesign-Skills/blob/main/references/video-editing.md)  
 > 한국어 번역 및 GPT 한국어 출력 규칙 보강판
 
 ## GPT용 최우선 한국어 출력 규칙
